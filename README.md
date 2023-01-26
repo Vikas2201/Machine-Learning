@@ -27,3 +27,16 @@ Machine learning can be grouped into two broad learning tasks:
 # Supervised Machine Learning
 -------------------------------------
 
+An algorithm uses training data and feedback from humans to learn the relationship of given inputs to a given output.We can use supervised learning when the output data is known. The algorithm will predict new data.
+
+There are two categories of supervised learning:
+
+  1) Classification task
+  2) Regression task
+
+### Algorithm for Supervised Machine Learning 
+-----------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/76476273/214798754-3439b9f5-7605-4c4f-82b7-79b4d6e59d56.png)
+![image](https://user-images.githubusercontent.com/76476273/214798978-3c71d3e0-c83a-47d0-9305-7f50abfcb66b.png)
+
