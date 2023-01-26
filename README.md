@@ -50,3 +50,10 @@ In unsupervised learning, an algorithm explores input data without being given a
 
 ![image](https://user-images.githubusercontent.com/76476273/214800760-897a953e-7214-4d6e-9e71-82acc2ffd7f6.png)
 
+* Help Me Improve 
+----------------------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
+
+Do ⭐ the repository , if it helped you in anyway.
+
