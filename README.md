@@ -40,3 +40,13 @@ There are two categories of supervised learning:
 ![image](https://user-images.githubusercontent.com/76476273/214798754-3439b9f5-7605-4c4f-82b7-79b4d6e59d56.png)
 ![image](https://user-images.githubusercontent.com/76476273/214798978-3c71d3e0-c83a-47d0-9305-7f50abfcb66b.png)
 
+# Unsupervised Machine Learning 
+------------------------------------------------
+
+In unsupervised learning, an algorithm explores input data without being given an explicit output variable (e.g., explores customer demographic data to identify patterns). We can use it when you do not know how to classify the data.
+
+### Algorithm for Unsupervised Machine Learning 
+-----------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/76476273/214800760-897a953e-7214-4d6e-9e71-82acc2ffd7f6.png)
+
